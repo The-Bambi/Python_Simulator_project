@@ -1,0 +1,15 @@
+skrot ilosc
+mt 0
+dt 0
+lm 0
+cm 0
+kr 0
+ow 0
+sk 1354133531
+re 0
+ss 0
+b 0
+n 123
+gs 0
+p 0
+ak 0
